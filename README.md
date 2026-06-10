@@ -9,8 +9,8 @@
 
 ## Features
 - **RP2354A MCU** - 32bit dual core ARM Cortex-M33 MCU.
-- **Very compact, XIAO SEEED inspired formfactor**
-- **I2C and SPI** - on many pins.
+- **Very compact, XIAO SEEED inspired formfactor**.
+- **4 ADC and 7 digital GPIO pins**.
 - **5V and 3.3V power pins**.
 - Power indicator LED and another addressable LED
 - **USB C** - for programming and power.
