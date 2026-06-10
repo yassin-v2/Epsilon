@@ -1,2 +1,2 @@
-# Gerald-the-devboard
-A very compact development board integrating the RP2354A MCU, called Gerald.
+# Epsilon
+ A very compact, 4-layer devboard integrating the RP2354A MCU, named Epsilon. 
