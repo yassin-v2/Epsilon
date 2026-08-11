@@ -46,7 +46,7 @@ The PCB is 4 layers with dimensions **21mm × 17.8mm**.
 *Find the Schematic files [here](https://github.com/yassin-v2/Epsilon/tree/main/PCB), or as a PDF, [here](https://github.com/yassin-v2/Epsilon/blob/main/Epsilon%20Schematic.pdf).*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6084d54-941e-4539-89de-12747d50e849" width="1000">
+  <img src="https://github.com/user-attachments/assets/6e53af3f-d5be-46d4-8087-c693ee1c5feb" width="1000">
 </p>
 
 ---
